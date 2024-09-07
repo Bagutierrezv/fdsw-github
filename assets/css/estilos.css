@@ -3,8 +3,11 @@ body {
 }
 
 /* Hero Section */
-
 nav{
+  background-color: #190324;
+}
+
+footer{
   background-color: #190324;
 }
 
