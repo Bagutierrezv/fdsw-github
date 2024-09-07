@@ -20,6 +20,9 @@ nav{
 }
 
 /* Mis trabajos */
+#Mis-trabajos{
+  background-color: #59326d;
+}
 
 #Mis-trabajos .image-top {
   height: 250px;
