@@ -32,6 +32,9 @@ nav{
 }
 
 /* Contacto */
+#Contacto{
+  color: #390055;
+}
 
 #Contacto form label {
   font-weight: 700;
